@@ -1,0 +1,15 @@
+.subtext{color: 000000;
+font-family:reenie beanie;font-size: 45px;margin-left: 0px;line-height: 0px;}
+
+* {
+  box-sizing: border-box;
+} 
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+
+.names {color: 000000;
+font-family:reenie beanie;font-size: 45px;margin-left: 0px;line-height: 40px;margin-top: 50px; padding-top: 80px}

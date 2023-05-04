@@ -1,0 +1,45 @@
+img.top {margin-left: 0px; width: 1500px;
+			height: 200px;
+		}
+
+		img.lady {display:block;
+margin-left:auto;
+margin-right:auto;
+width: 180px; height: 200px;}
+
+
+.bottom-left {
+  position: absolute;
+  top: 0px;
+  left: 1000px;
+}
+
+.sign{color:000000;
+font-family:reenie beanie;
+font-size: 100px;
+}
+
+.text{color: 000000; text-shadow: 6px 4px 6px grey;
+font-family:reenie beanie;font-size: 60px;margin-left: 30px;}
+
+.subtext{color: 000000;
+font-family:reenie beanie;font-size: 45px;margin-left: 0px;line-height: 0px;}
+
+* {
+  box-sizing: border-box;
+} 
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+
+.column2 {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+
+.places {text-decoration: none;
+color: black;}
